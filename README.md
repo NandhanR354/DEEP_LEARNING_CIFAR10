@@ -1,3 +1,15 @@
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : NANDHAN R
+
+*INTERN ID* : CT06DY751
+
+*DOMAIN* : DATA SCIENCE
+
+*DURATION* : 6 WEEKS
+
+*MENTOR* : NEELA SANTHOSH
+
 # Task 2: Deep Learning Project - Image Classification
 
 ## Overview
